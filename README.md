@@ -1,6 +1,6 @@
 ### Well, I should welcome you here, but I won't
 ### nah, Just kidding, Hello There👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=D4mianooo">
 <!--
 **D4mianooo/D4mianooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
